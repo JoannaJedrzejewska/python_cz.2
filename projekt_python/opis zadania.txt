@@ -1,1 +1,2 @@
 Zadanie nr 5 z użyciem Alembic.
+sql_app2.py to główny plik.
